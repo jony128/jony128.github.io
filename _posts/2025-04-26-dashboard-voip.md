@@ -1,7 +1,7 @@
 ---
 title: "Dashboard VOIP"
 description: "Estruturação e visualização de dados da empresa MaximaVoip com Python e Power BI"
-date: 2025-04-24 00:00:00:00 +0800
+date: 2025-04-23 00:00:00:00 +0800
 categories: [Empresarial]
 tags: [Dashboard, Empresa, BI]
 image: https://cdn.jsdelivr.net/gh/jony128/cdn@main/dashboard%20voip%20gpt.png

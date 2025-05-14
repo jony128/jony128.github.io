@@ -1,7 +1,7 @@
 ---
 title: "Previsão de atrasos em aeroportos com Machine Learning"
 description: "Modelo de Machine Learning para previsão de atrasos em voos"
-date: 2025-04-26 00:00:00:00 +0800
+date: 2025-04-27 00:00:00:00 +0800
 categories: [Projeto Pessoal]
 tags: [Machine Learning, Python]
 image: https://cdn.jsdelivr.net/gh/jony128/cdn@main/ml_aeroporto_img.png
