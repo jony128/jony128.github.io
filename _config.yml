@@ -97,7 +97,7 @@ cdn:
 avatar: https://images.unsplash.com/photo-1595433707802-6b2626ef1c91?fm=jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://cdn-icons.flaticon.com/svg/6422/6422265.svg?token=exp=1747196077~hmac=f12cdd148e798b076cd682d005ba8f29
 
 # boolean type, the global switch for TOC in posts.
 toc: true
