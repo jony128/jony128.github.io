@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: João Vitor # the main title
 
-tagline: Data Analyst at Itau | Data Science | Machine Learning | Python | SQL | BI | AWS  # it will display as the subtitle
+tagline: Data Analyst at Itaú | Data Science | Machine Learning | Python | SQL | BI | AWS  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Data Analyst | Machine Learning | Etc..

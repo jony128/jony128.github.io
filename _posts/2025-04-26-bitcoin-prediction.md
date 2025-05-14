@@ -2,15 +2,21 @@
 title: "Previsão de ativos com Machine Learning"
 description: "Modelo de Machine Learning para previsão de criptomoedas baseado nos ultimos 45 dias do ativo "
 date: 2025-04-25 00:00:00:00 +0800
-categories: [Projetos]
+categories: [Projeto Pessoal]
 tags: [Machine Learning, Python, Crypto]
-image: https://cdn.jsdelivr.net/gh/jony128/cdn@main/img2.jpeg
+image: https://cdn.jsdelivr.net/gh/jony128/cdn@main/bitcoin-ml.png
 ---
 
 ## Introdução
 
-Utilizando pandas, numpy, tensorflow e sklearn o projeto foi focado em realizar uma previsão do preço do bitcoin com base nos ultimos 45 dias, os dados de fechamento são puxados com a biblioteca pandas_datareader. 
+Previsão de Preço do Bitcoin com Redes Neurais
 
-Os dados foram preparados utilizando o MinMaxScaler e após isso inserido no modelo de rede neural para treino
+Este projeto utiliza Machine Learning para prever o preço do Bitcoin com base no histórico de fechamento dos últimos 45 dias. Os dados foram coletados automaticamente com a biblioteca pandas_datareader e preparados utilizando o MinMaxScaler. 
+
+Para a previsão, foi desenvolvido um modelo de rede neural usando TensorFlow e Keras, com as bibliotecas Pandas, NumPy e Scikit-learn
+
+O foco foi no pré-processamento eficiente dos dados e no treinamento de um modelo capaz de capturar padrões de comportamento do mercado de criptomoedas.
+
+
 
  
