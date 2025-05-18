@@ -11,7 +11,7 @@ Tenho experiência sólida como Analista de Dados e atualmente curso Ciência de
 
 Minha trajetória profissional é marcada por **análises** e **insights** precisos, relevantes e eficientes, sempre com base em dados, gerando valor real para as empresas por onde passei.
 
-Sou focado em identificar GAPs, oportunidades de lucro não exploradas, projeções financeiras, análises de mercado e mostrar, na prática, como a **estatística básica pode resolver 90% dos problemas de um negócio.**
+Sou focado em identificar GAPs, oportunidades de lucro não exploradas, projeções financeiras, análises de mercado e mostrar, na prática, como **estatística básica pode resolver 90% dos problemas de um negócio.**
 
 <sub>Sem dados você é apenas mais uma pessoa com uma opinião.<br> *W. Edwards Deming*</sub>
 
@@ -25,7 +25,7 @@ Sou focado em identificar GAPs, oportunidades de lucro não exploradas, projeç�
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joaovitoramorim0001@gmail.com)
 
 
-# Aprofundado em experiencias:
+# Aprofundando em experiências:
 
 Em quesito técnico, fui responsável pela estruturação da área de dados da empresa MáximaVoip, utilizando MySQL conectado a um sistema operacional Linux em um servidor físico R720. Criamos e mantivemos datasets, além de implementarmos automações em Python para processos de limpeza de dados.
 
@@ -40,13 +40,13 @@ Tenho também experiência como professor de Informática na Microlins, onde min
 
 # Stacks 
 <div style="text-align: left; display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.icons8.com/?size=64&amp;id=33039&amp;format=png&amp;color=7950F2" alt="python">
+    <img src="https://img.icons8.com/?size=64&amp;id=33039&amp;format=png&amp;color=7950F2" alt="AWS">
     <img src="https://img.icons8.com/?size=64&amp;id=6DuoGHb03MQm&amp;format=png&amp;color=7950F2" alt="python">
-    <img src="https://img.icons8.com/?size=64&amp;id=B3VgW5sZRz8U&amp;format=png&amp;color=7950F2" alt="python">
-    <img src="https://img.icons8.com/?size=64&amp;id=70667&amp;format=png&amp;color=7950F2" alt="python">
-    <img src="https://img.icons8.com/?size=64&amp;id=6LNIYS1zWvw7&amp;format=png&amp;color=7950F2" alt="python">
-    <img src="https://img.icons8.com/?size=64&amp;id=HF4xGsjDERHf&amp;format=png&amp;color=7950F2" alt="python">
-    <img src="https://img.icons8.com/?size=64&amp;id=3552&amp;format=png&amp;color=FFFFFF" alt="python">
+    <img src="https://img.icons8.com/?size=64&amp;id=B3VgW5sZRz8U&amp;format=png&amp;color=7950F2" alt="SQL">
+    <img src="https://img.icons8.com/?size=64&amp;id=70667&amp;format=png&amp;color=7950F2" alt="PBI">
+    <img src="https://img.icons8.com/?size=64&amp;id=6LNIYS1zWvw7&amp;format=png&amp;color=7950F2" alt="PENTEST">
+    <img src="https://img.icons8.com/?size=64&amp;id=HF4xGsjDERHf&amp;format=png&amp;color=7950F2" alt="LINUX">
+    <img src="https://img.icons8.com/?size=64&id=24455&format=png&color=f7931a" alt="BITCOIN">
 </div>
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page. -->
 {: .prompt-tip }
