@@ -17,7 +17,7 @@ Sou focado em identificar GAPs, oportunidades de lucro não exploradas, projeç�
 
 # Curriculo:
 
-[![](https://img.shields.io/badge/PDF-D14836?style=for-the-badge&logo=PDF&logoColor=white)](https://cdn.jsdelivr.net/gh/jony128/Resume@main/Joao%20Vitor%20Amorim%20Data%20Analyst.pdf)
+[![](https://img.shields.io/badge/PDF-D14836?style=for-the-badge&logo=PDF&logoColor=white)](https://cdn.jsdelivr.net/gh/jony128/cdn@main/resume_data_analyst%20(1).pdf)
 
 # Redes Sociais:  
 
